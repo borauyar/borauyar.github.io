@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Dr. Bora Uyar</title>
+    <link>/borauyar/authors/</link>
+      <atom:link href="/borauyar/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/borauyar/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/borauyar/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/borauyar/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/admin/</guid>
+      <description>&lt;p&gt;Bora Uyar is a bioinformatics scientist at the Bioinformatics and Omics Data Science Platform of the Berlin Institute for Medical Systems Biology of the Max-Delbruck-Center in Berlin/Germany. His main aim is to apply his bioinformatics skills (such as machine learning, statistics, and programming) to further our understanding of human diseases at the molecular level. He is particularly interested in cancer biology, for which he integrates multiple sources of high-throughput sequencing (multi-omics) datasets measured at both bulk and single-cell level resolution. He is currently interested in how to decipher the disruptions in cellular identities using single-cell sequencing datasets and transfer this knowledge to bulk sequencing datasets available in large scale human sequencing projects such as TCGA and the ICGC/PCAWG. He is particularly curious about how E3 ligases involved in proteasome-mediated protein degradation are influential in determination of the cell identities, regulation of the cell cycle, response to the environment and how factors that lead to the mis-regulation of such enzyme complexes can determine the prognosis of cancer patients.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Altuna Akalin</title>
+      <link>/borauyar/authors/altuna-akalin/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/altuna-akalin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baris Tursun</title>
+      <link>/borauyar/authors/baris-tursun/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/baris-tursun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bora Uyar</title>
+      <link>/borauyar/authors/bora-uyar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/bora-uyar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katarzyna Wreczycka</title>
+      <link>/borauyar/authors/katarzyna-wreczycka/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/katarzyna-wreczycka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ricardo Wurmus</title>
+      <link>/borauyar/authors/ricardo-wurmus/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/ricardo-wurmus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selman Bulut</title>
+      <link>/borauyar/authors/selman-bulut/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/selman-bulut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vedran Franke</title>
+      <link>/borauyar/authors/vedran-franke/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/vedran-franke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ahmet Bugra Tufan</title>
+      <link>/borauyar/authors/ahmet-bugra-tufan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/ahmet-bugra-tufan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Akalin A</title>
+      <link>/borauyar/authors/akalin-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/akalin-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Gosdschan</title>
+      <link>/borauyar/authors/alexander-gosdschan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/alexander-gosdschan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baytek G</title>
+      <link>/borauyar/authors/baytek-g/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/baytek-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BjA¶rn Perder</title>
+      <link>/borauyar/authors/bjarn-perder/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/bjarn-perder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brendan Osberg</title>
+      <link>/borauyar/authors/brendan-osberg/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/brendan-osberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bulut SI</title>
+      <link>/borauyar/authors/bulut-si/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/bulut-si/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheng JY</title>
+      <link>/borauyar/authors/cheng-jy/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/cheng-jy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claus Scheidereit</title>
+      <link>/borauyar/authors/claus-scheidereit/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/claus-scheidereit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diecke S</title>
+      <link>/borauyar/authors/diecke-s/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/diecke-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerhardt H</title>
+      <link>/borauyar/authors/gerhardt-h/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/gerhardt-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gunnar Dittmar</title>
+      <link>/borauyar/authors/gunnar-dittmar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/gunnar-dittmar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haucke V</title>
+      <link>/borauyar/authors/haucke-v/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/haucke-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>He M</title>
+      <link>/borauyar/authors/he-m/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/he-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hernandez-Miranda LR</title>
+      <link>/borauyar/authors/hernandez-miranda-lr/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/hernandez-miranda-lr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hirsekorn A</title>
+      <link>/borauyar/authors/hirsekorn-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/hirsekorn-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Ronen</title>
+      <link>/borauyar/authors/jonathan-ronen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/jonathan-ronen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kirchner M</title>
+      <link>/borauyar/authors/kirchner-m/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/kirchner-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kolundzic E</title>
+      <link>/borauyar/authors/kolundzic-e/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/kolundzic-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lacadie SA</title>
+      <link>/borauyar/authors/lacadie-sa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/lacadie-sa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marina Kolesnichenko</title>
+      <link>/borauyar/authors/marina-kolesnichenko/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/marina-kolesnichenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meyer K</title>
+      <link>/borauyar/authors/meyer-k/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/meyer-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Hinz</title>
+      <link>/borauyar/authors/michael-hinz/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/michael-hinz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nadine Mikuda</title>
+      <link>/borauyar/authors/nadine-mikuda/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/nadine-mikuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ofenbauer A</title>
+      <link>/borauyar/authors/ofenbauer-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/ofenbauer-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oliver Popp</title>
+      <link>/borauyar/authors/oliver-popp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/oliver-popp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Beaudette</title>
+      <link>/borauyar/authors/patrick-beaudette/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/patrick-beaudette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philipp Mertins</title>
+      <link>/borauyar/authors/philipp-mertins/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/philipp-mertins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rudolph IM</title>
+      <link>/borauyar/authors/rudolph-im/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/rudolph-im/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Russo G</title>
+      <link>/borauyar/authors/russo-g/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/russo-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seelk S</title>
+      <link>/borauyar/authors/seelk-s/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/seelk-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selbach M</title>
+      <link>/borauyar/authors/selbach-m/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/selbach-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sommermeier A</title>
+      <link>/borauyar/authors/sommermeier-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/sommermeier-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Szymborska A</title>
+      <link>/borauyar/authors/szymborska-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/szymborska-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tursun B</title>
+      <link>/borauyar/authors/tursun-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/tursun-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uyar B</title>
+      <link>/borauyar/authors/uyar-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/uyar-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vucicevic D</title>
+      <link>/borauyar/authors/vucicevic-d/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/vucicevic-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Chen</title>
+      <link>/borauyar/authors/wei-chen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/wei-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Sun</title>
+      <link>/borauyar/authors/wei-sun/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/wei-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Willnow TE</title>
+      <link>/borauyar/authors/willnow-te/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/willnow-te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zauber H</title>
+      <link>/borauyar/authors/zauber-h/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/zauber-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balint Meszaros</title>
+      <link>/borauyar/authors/balint-meszaros/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/balint-meszaros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manjeet Kumar</title>
+      <link>/borauyar/authors/manjeet-kumar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/manjeet-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ohler U</title>
+      <link>/borauyar/authors/ohler-u/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/ohler-u/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajewsky N</title>
+      <link>/borauyar/authors/rajewsky-n/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/rajewsky-n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toby J. Gibson</title>
+      <link>/borauyar/authors/toby-j.-gibson/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/toby-j.-gibson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wurmus R</title>
+      <link>/borauyar/authors/wurmus-r/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/wurmus-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yusuf D</title>
+      <link>/borauyar/authors/yusuf-d/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/yusuf-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zsuzsanna Dosztanyi</title>
+      <link>/borauyar/authors/zsuzsanna-dosztanyi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/zsuzsanna-dosztanyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Behrendt</title>
+      <link>/borauyar/authors/a.-behrendt/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/a.-behrendt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Staudt</title>
+      <link>/borauyar/authors/a.-staudt/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/a.-staudt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.C. Knudsen</title>
+      <link>/borauyar/authors/a.c.-knudsen/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/a.c.-knudsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Altenberg</title>
+      <link>/borauyar/authors/b.-altenberg/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/b.-altenberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Uyar</title>
+      <link>/borauyar/authors/b.-uyar/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/b.-uyar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Mader</title>
+      <link>/borauyar/authors/c.-mader/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/c.-mader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Diella</title>
+      <link>/borauyar/authors/f.-diella/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/f.-diella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Dinkel</title>
+      <link>/borauyar/authors/h.-dinkel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/h.-dinkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Kuhn</title>
+      <link>/borauyar/authors/h.-kuhn/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/h.-kuhn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Roey</title>
+      <link>/borauyar/authors/k.-roey/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/k.-roey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Welti</title>
+      <link>/borauyar/authors/l.-welti/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/l.-welti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Kumar</title>
+      <link>/borauyar/authors/m.-kumar/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/m.-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Schneider</title>
+      <link>/borauyar/authors/m.-schneider/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/m.-schneider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N.E. Davey</title>
+      <link>/borauyar/authors/n.e.-davey/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/n.e.-davey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Diebel</title>
+      <link>/borauyar/authors/s.-diebel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/s.-diebel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Kalman</title>
+      <link>/borauyar/authors/s.-kalman/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/s.-kalman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Klein</title>
+      <link>/borauyar/authors/s.-klein/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/s.-klein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Merrill</title>
+      <link>/borauyar/authors/s.-merrill/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/s.-merrill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Michael</title>
+      <link>/borauyar/authors/s.-michael/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/s.-michael/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.L. Dahl</title>
+      <link>/borauyar/authors/s.l.-dahl/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/s.l.-dahl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T.J. Gibson</title>
+      <link>/borauyar/authors/t.j.-gibson/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/t.j.-gibson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Damerell</title>
+      <link>/borauyar/authors/v.-damerell/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/v.-damerell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Milchevskaya</title>
+      <link>/borauyar/authors/v.-milchevskaya/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/v.-milchevskaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Thiel</title>
+      <link>/borauyar/authors/v.-thiel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/v.-thiel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Via</title>
+      <link>/borauyar/authors/a.-via/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/a.-via/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Zanzoni</title>
+      <link>/borauyar/authors/a.-zanzoni/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/a.-zanzoni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Brun</title>
+      <link>/borauyar/authors/c.-brun/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/c.-brun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Budd</title>
+      <link>/borauyar/authors/a.-budd/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/a.-budd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Born</title>
+      <link>/borauyar/authors/d.-born/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/d.-born/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Kruger</title>
+      <link>/borauyar/authors/d.-kruger/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/d.-kruger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Grebnev</title>
+      <link>/borauyar/authors/g.-grebnev/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/g.-grebnev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I.E. Sanchez</title>
+      <link>/borauyar/authors/i.e.-sanchez/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/i.e.-sanchez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Glavina</title>
+      <link>/borauyar/authors/j.-glavina/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/j.-glavina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. {Van Roey}</title>
+      <link>/borauyar/authors/k.-van-roey/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/k.-van-roey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L.B. Chemes</title>
+      <link>/borauyar/authors/l.b.-chemes/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/l.b.-chemes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Kuba?</title>
+      <link>/borauyar/authors/m.-kuba/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/m.-kuba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Seiler</title>
+      <link>/borauyar/authors/m.-seiler/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/m.-seiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Strumillo</title>
+      <link>/borauyar/authors/m.-strumillo/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/m.-strumillo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R.J. Weatheritt</title>
+      <link>/borauyar/authors/r.j.-weatheritt/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/r.j.-weatheritt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Speck</title>
+      <link>/borauyar/authors/t.-speck/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/t.-speck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Chatr-Aryamontri</title>
+      <link>/borauyar/authors/a.-chatr-aryamontri/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/a.-chatr-aryamontri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Chica</title>
+      <link>/borauyar/authors/c.-chica/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/c.-chica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. McGuigan</title>
+      <link>/borauyar/authors/c.-mcguigan/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/c.-mcguigan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Schroeter</title>
+      <link>/borauyar/authors/c.-schroeter/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/c.-schroeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Tu</title>
+      <link>/borauyar/authors/d.-tu/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/d.-tu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Zhang</title>
+      <link>/borauyar/authors/d.-zhang/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/d.-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D.L. Baillie</title>
+      <link>/borauyar/authors/d.l.-baillie/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/d.l.-baillie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Toedt</title>
+      <link>/borauyar/authors/g.-toedt/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/g.-toedt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Meiselbach</title>
+      <link>/borauyar/authors/h.-meiselbach/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/h.-meiselbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I.A. Vergara</title>
+      <link>/borauyar/authors/i.a.-vergara/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/i.a.-vergara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Trinh</title>
+      <link>/borauyar/authors/j.-trinh/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/j.-trinh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Wang</title>
+      <link>/borauyar/authors/j.-wang/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/j.-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.S.C. Chu</title>
+      <link>/borauyar/authors/j.s.c.-chu/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/j.s.c.-chu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Luck</title>
+      <link>/borauyar/authors/k.-luck/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/k.-luck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Jodicke</title>
+      <link>/borauyar/authors/l.-jodicke/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/l.-jodicke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Dymecka</title>
+      <link>/borauyar/authors/m.-dymecka/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/m.-dymecka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Hammer</title>
+      <link>/borauyar/authors/m.-hammer/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/m.-hammer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Tarailo-Graovac</title>
+      <link>/borauyar/authors/m.-tarailo-graovac/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/m.-tarailo-graovac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.A. Dammert</title>
+      <link>/borauyar/authors/m.a.-dammert/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/m.a.-dammert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.O. Steinmetz</title>
+      <link>/borauyar/authors/m.o.-steinmetz/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/m.o.-steinmetz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.R. Jones</title>
+      <link>/borauyar/authors/m.r.-jones/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/m.r.-jones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Chen</title>
+      <link>/borauyar/authors/n.-chen/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/n.-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Haslam</title>
+      <link>/borauyar/authors/n.-haslam/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/n.-haslam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Jehl</title>
+      <link>/borauyar/authors/p.-jehl/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/p.-jehl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R.J. Edwards</title>
+      <link>/borauyar/authors/r.j.-edwards/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/r.j.-edwards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.Y. Chua</title>
+      <link>/borauyar/authors/s.y.-chua/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/s.y.-chua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Schmidt</title>
+      <link>/borauyar/authors/t.-schmidt/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/t.-schmidt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Wong</title>
+      <link>/borauyar/authors/t.-wong/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/t.-wong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.S.-C. Chu</title>
+      <link>/borauyar/authors/j.s.-c.-chu/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/j.s.-c.-chu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Wang</title>
+      <link>/borauyar/authors/k.-wang/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/k.-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. She</title>
+      <link>/borauyar/authors/r.-she/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/borauyar/authors/r.-she/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

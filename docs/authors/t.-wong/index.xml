@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Wong | Dr. Bora Uyar</title>
+    <link>/borauyar/authors/t.-wong/</link>
+      <atom:link href="/borauyar/authors/t.-wong/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Wong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/borauyar/img/icon-192.png</url>
+      <title>T. Wong</title>
+      <link>/borauyar/authors/t.-wong/</link>
+    </image>
+    
+    <item>
+      <title>RNA-seq analysis of the C. briggsae transcriptome</title>
+      <link>/borauyar/publication/journal-article/2012-01-01_rna-seq_analysis_of_/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2012-01-01_rna-seq_analysis_of_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

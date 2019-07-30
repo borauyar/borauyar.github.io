@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tursun B | Dr. Bora Uyar</title>
+    <link>/borauyar/authors/tursun-b/</link>
+      <atom:link href="/borauyar/authors/tursun-b/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tursun B</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/borauyar/img/icon-192.png</url>
+      <title>Tursun B</title>
+      <link>/borauyar/authors/tursun-b/</link>
+    </image>
+    
+    <item>
+      <title>FACT Sets a Barrier for Cell Fate Reprogramming in Caenorhabditis elegans and Human Cells.</title>
+      <link>/borauyar/publication/journal-article/2018-01-01_fact_sets_a_barrier_/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2018-01-01_fact_sets_a_barrier_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

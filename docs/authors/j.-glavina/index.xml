@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Glavina | Dr. Bora Uyar</title>
+    <link>/borauyar/authors/j.-glavina/</link>
+      <atom:link href="/borauyar/authors/j.-glavina/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Glavina</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/borauyar/img/icon-192.png</url>
+      <title>J. Glavina</title>
+      <link>/borauyar/authors/j.-glavina/</link>
+    </image>
+    
+    <item>
+      <title>The eukaryotic linear motif resource ELM: 10 years and counting</title>
+      <link>/borauyar/publication/journal-article/2014-01-01_the_eukaryotic_linea/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2014-01-01_the_eukaryotic_linea/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

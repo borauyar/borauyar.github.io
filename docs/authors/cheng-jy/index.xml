@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheng JY | Dr. Bora Uyar</title>
+    <link>/borauyar/authors/cheng-jy/</link>
+      <atom:link href="/borauyar/authors/cheng-jy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheng JY</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/borauyar/img/icon-192.png</url>
+      <title>Cheng JY</title>
+      <link>/borauyar/authors/cheng-jy/</link>
+    </image>
+    
+    <item>
+      <title>Mutations in Disordered Regions Can Cause Disease by Creating Dileucine Motifs.</title>
+      <link>/borauyar/publication/journal-article/2018-01-01_mutations_in_disorde/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2018-01-01_mutations_in_disorde/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

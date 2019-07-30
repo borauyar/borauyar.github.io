@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Uyar | Dr. Bora Uyar</title>
+    <link>/borauyar/authors/b.-uyar/</link>
+      <atom:link href="/borauyar/authors/b.-uyar/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Uyar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/borauyar/img/icon-192.png</url>
+      <title>B. Uyar</title>
+      <link>/borauyar/authors/b.-uyar/</link>
+    </image>
+    
+    <item>
+      <title>ELM 2016 - Data update and new functionality of the eukaryotic linear motif resource</title>
+      <link>/borauyar/publication/journal-article/2016-01-01_elm_2016_-_data_upda/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2016-01-01_elm_2016_-_data_upda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How pathogens use linear motifs to perturb host cell networks</title>
+      <link>/borauyar/publication/journal-article/2015-01-01_how_pathogens_use_li/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2015-01-01_how_pathogens_use_li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteome-wide analysis of human disease mutations in short linear motifs: Neglected players in cancer?</title>
+      <link>/borauyar/publication/journal-article/2014-01-01_proteome-wide_analys/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2014-01-01_proteome-wide_analys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short linear motifs: Ubiquitous and functionally diverse protein interaction modules directing cell regulation</title>
+      <link>/borauyar/publication/journal-article/2014-01-01_short_linear_motifs_/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2014-01-01_short_linear_motifs_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The eukaryotic linear motif resource ELM: 10 years and counting</title>
+      <link>/borauyar/publication/journal-article/2014-01-01_the_eukaryotic_linea/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2014-01-01_the_eukaryotic_linea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attributes of short linear motifs</title>
+      <link>/borauyar/publication/journal-article/2012-01-01_attributes_of_short_/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2012-01-01_attributes_of_short_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ELM - The database of eukaryotic linear motifs</title>
+      <link>/borauyar/publication/journal-article/2012-01-01_elm_-_the_database_o/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2012-01-01_elm_-_the_database_o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine tuning of RFX/DAF-19-regulated target gene expression through binding to multiple sites in Caenorhabditis elegans</title>
+      <link>/borauyar/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA-seq analysis of the C. briggsae transcriptome</title>
+      <link>/borauyar/publication/journal-article/2012-01-01_rna-seq_analysis_of_/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2012-01-01_rna-seq_analysis_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genBlastG: Using BLAST searches to build homologous gene models</title>
+      <link>/borauyar/publication/journal-article/2011-01-01_genblastg_using_blas/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/borauyar/publication/journal-article/2011-01-01_genblastg_using_blas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
