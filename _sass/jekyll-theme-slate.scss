@@ -350,7 +350,10 @@ Full-Width Styles
 }
 
 #main_content_wrap {
-  background: url('../images/soroush-karimi-crjPrExvShc-unsplash.jpg');
+  background-image: url('../images/soroush-karimi-crjPrExvShc-unsplash.jpg');
+  background-size:     cover;                      /* <------ */
+  background-repeat:   no-repeat;
+  background-position: center center;              /* optional, center the image */
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
