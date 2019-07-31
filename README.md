@@ -1,7 +1,7 @@
 Hello! I am Bora. I am a Bioinformatics Scientist at the [Berlin Institute of Medical Systems Biology](https://www.mdc-berlin.de/bimsb) of 
 the [Max-Delbruck-Center for Molecular Medicine](https://www.mdc-berlin.de). 
 
-I decided to study Bioinformatics back in 2004 at Sabanci University (Istanbul,Turkey), where I was inspired by the freshman projects offered by [Ugur Sezerman](http://www.sezermanlab.org/), who is probably responsible for dozens of other people to choose to study bionformatics :). I graduated from Sabanci University in 2008 and moved to Vancouver/Canada to do my Master's degree. 
+I decided to study Bioinformatics back in 2004 at Sabanci University (Istanbul,Turkey), where I was inspired by [Ugur Sezerman](http://www.sezermanlab.org/), who is probably responsible for dozens of other people from Turkey to choose to study bionformatics :). I graduated from Sabanci University in 2008 and moved to Vancouver/Canada to do my Master's degree. 
 
 I did my Master's degree in Vancouver/Canada, where I finished a [Bioinformatics Training Program](https://bcbioinformaticsgrad.ca) jointly organized by Simon Fraser University and University of British Columbia. There, I had the chance to do rotation projects in the groups of [Cenk Sahinalp](https://scholar.google.com/citations?user=O8wbTncAAAAJ&hl=en), [Inanc Birol](https://scholar.google.com/citations?user=Svk1wjsAAAAJ&hl=en), [Marco Marra](https://scholar.google.ca/citations?user=XTZ7_NUAAAAJ&hl=en), and [Nansheng Chen](https://scholar.google.com/citations?user=tEN1cS0AAAAJ&hl=en). I wrote my Master's thesis titled "Homology and Evidence-based Genome Annotation of Caenorhabditis Species" in the group of Nansheng Chen and defended my thesis in December 2010. 
 
