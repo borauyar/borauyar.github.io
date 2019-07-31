@@ -1,1 +1,36 @@
-theme: jekyll-theme-slate
+# site settings
+title: Bora Uyar, PhD
+subtitle: 
+email: bora.uyar@mdc-berlin.de
+description: I am a bioinformatics scientist at <br /> the Berlin Institute for Medical Systems Biology
+baseurl: "/test_forty" # the subpath of your site, e.g. /blog
+url: https://borauyar.com # the base hostname & protocol for your site
+author: Bora Uyar
+street_address: Hannoversche Str. 28
+city: Berlin
+state: Berlin
+zip_code: 10115
+country: Germany
+phone: +49 30 9406 1545
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 3
+
+# social settings
+500px_url:
+facebook_url:
+github_url: http://github.com/borauyar
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/bora-uyar-11050425/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/borauyar
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
