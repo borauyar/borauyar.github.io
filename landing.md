@@ -16,9 +16,10 @@ show_tile: true
 		<header class="major">
 			<h2>My career journey</h2>
 		</header>
-		<p> Hello! I am Bora. I am a Bioinformatics Scientist at the 
+		<p> I am a Bioinformatics Scientist at the 
 			<a href='https://www.mdc-berlin.de/bimsb' > Berlin Institute of Medical Systems Biology </a>
 			of the <a href='https://www.mdc-berlin.de' > Max-Delbruck-Center for Molecular Medicine. </a>
+			My career journey in bioinformatics started around 2004 in Istanbul, Turkey. 
 		</p>
 	</div>
 </section>
