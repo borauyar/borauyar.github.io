@@ -26,7 +26,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://www.sabanciuniv.edu" class="image">
 			<img src="assets/images/sabanci.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -40,7 +40,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://bcbioinformaticsgrad.ca" class="image">
 			<img src="assets/images/msc.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -62,7 +62,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://www.embl.de" class="image">
 			<img src="assets/images/embl.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -77,7 +77,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://www.mdc-berlin.de/bimsb" class="image">
 			<img src="assets/images/bimsb.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
