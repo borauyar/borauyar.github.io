@@ -2,7 +2,7 @@
 title: About me
 layout: landing
 description: 'Places I have lived, studied, worked ...'
-image: assets/images/pic07.jpg
+image: assets/images/bimsb.jpg
 nav-menu: true
 show_tile: true
 ---
