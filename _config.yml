@@ -3,7 +3,7 @@ title: Bora Uyar, PhD
 subtitle: 
 email: bora.uyar@mdc-berlin.de
 description: I am a bioinformatics scientist at <br /> the Berlin Institute for Medical Systems Biology
-baseurl: "/test_forty" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://borauyar.com # the base hostname & protocol for your site
 author: Bora Uyar
 street_address: Hannoversche Str. 28
