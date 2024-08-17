@@ -90,7 +90,7 @@ show_tile: true
 					<a href='https://bioinformatics.mdc-berlin.de' > Altuna Akalin </a> 
 					at the Bioinformatics and Omics Data Science Platform. 
 					If you are curious about my professional background, check out 
-					<a href='https://borauyar.com/CV/' > my portfolio page. </a> 
+					<a href='https://borauyar.github.io/CV/' > my portfolio page. </a> 
 				</p>
 			</div>
 		</div>
